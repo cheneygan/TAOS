@@ -1,4 +1,4 @@
-OTS（Online Trade System）
+OTAS（Online Transer Agent System）在线注册登记系统
 ===
 货币基金交易系统，主要功能：
 1、账户开户
