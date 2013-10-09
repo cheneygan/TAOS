@@ -1,4 +1,4 @@
-OTS
+OTS（Online Trade System）
 ===
 货币基金交易系统，主要功能：
 1、账户开户
